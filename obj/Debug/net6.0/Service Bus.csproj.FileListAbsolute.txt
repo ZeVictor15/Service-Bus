@@ -1,0 +1,22 @@
+D:\Service Bus\bin\Debug\net6.0\Service Bus.exe
+D:\Service Bus\bin\Debug\net6.0\Service Bus.deps.json
+D:\Service Bus\bin\Debug\net6.0\Service Bus.runtimeconfig.json
+D:\Service Bus\bin\Debug\net6.0\Service Bus.dll
+D:\Service Bus\bin\Debug\net6.0\Service Bus.pdb
+D:\Service Bus\bin\Debug\net6.0\Azure.Core.dll
+D:\Service Bus\bin\Debug\net6.0\Azure.Core.Amqp.dll
+D:\Service Bus\bin\Debug\net6.0\Azure.Messaging.ServiceBus.dll
+D:\Service Bus\bin\Debug\net6.0\Microsoft.Azure.Amqp.dll
+D:\Service Bus\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Service Bus\bin\Debug\net6.0\System.Memory.Data.dll
+D:\Service Bus\obj\Debug\net6.0\Service Bus.csproj.AssemblyReference.cache
+D:\Service Bus\obj\Debug\net6.0\Service Bus.GeneratedMSBuildEditorConfig.editorconfig
+D:\Service Bus\obj\Debug\net6.0\Service Bus.AssemblyInfoInputs.cache
+D:\Service Bus\obj\Debug\net6.0\Service Bus.AssemblyInfo.cs
+D:\Service Bus\obj\Debug\net6.0\Service Bus.csproj.CoreCompileInputs.cache
+D:\Service Bus\obj\Debug\net6.0\Service Bus.csproj.CopyComplete
+D:\Service Bus\obj\Debug\net6.0\Service Bus.dll
+D:\Service Bus\obj\Debug\net6.0\refint\Service Bus.dll
+D:\Service Bus\obj\Debug\net6.0\Service Bus.pdb
+D:\Service Bus\obj\Debug\net6.0\Service Bus.genruntimeconfig.cache
+D:\Service Bus\obj\Debug\net6.0\ref\Service Bus.dll
